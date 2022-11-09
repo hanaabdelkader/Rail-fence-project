@@ -14,7 +14,8 @@ For encryption, the user will press one and then the user will enter the message
 
 
 
-![image](https://user-images.githubusercontent.com/93862666/200937103-d8909dfc-9ff1-490b-84c8-651074d73023.png)
+![image](https://user-images.githubusercontent.com/93862666/200937368-0ed7425c-4cda-4be5-9d7d-76aa8a33a414.png)
+
 
 
 
