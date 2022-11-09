@@ -1,6 +1,6 @@
 # Rail-fence-project
 
-![Gif]https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif
+![Gif image]https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif
   
   To execute the program, the user will directly go to the top panel and click on the run icon. After clicking on run, two options will be available either to run without debugging or to start debugging. For the program to run, the user must click on run without debugging and for an easier way, the user can simply press Ctrl and F5. After running the program, the terminal will exist, and the user will be greeted with a welcome message, then three options will be available for the user to choose between them. As shown below, the user will have three options which are to encrypt, decrypt, or exit the program. 
 
