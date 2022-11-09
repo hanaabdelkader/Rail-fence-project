@@ -10,4 +10,14 @@
 
 
 
-For encryption, the user will press one and then the user will enter the message and the key for the program to give us the ciphertext. After printing the ciphertext, the user can continue and decrypt the message or exit the program. To decrypt the message the user will press two and to exit the program finally the user will press three. If the user enters the wrong input, a message will appear mentioning that.
+For encryption, the user will press one and then the user will enter the message and the key for the program to give us the ciphertext. 
+
+
+
+![image](https://user-images.githubusercontent.com/93862666/200937103-d8909dfc-9ff1-490b-84c8-651074d73023.png)
+
+
+
+
+
+After printing the ciphertext, the user can continue and decrypt the message or exit the program. To decrypt the message the user will press two and to exit the program finally the user will press three. If the user enters the wrong input, a message will appear mentioning that.
